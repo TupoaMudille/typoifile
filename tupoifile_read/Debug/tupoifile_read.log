@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\temp110\source\repos\tupoifile_read\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\temp110\source\repos\tupoifile_read\main.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\temp110\source\repos\tupoifile_read\main.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\temp110\source\repos\tupoifile_read\main.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\temp110\source\repos\tupoifile_read\main.cpp(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\temp110\source\repos\tupoifile_read\main.cpp(7,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  tupoifile_read.vcxproj -> C:\Users\temp110\source\repos\tupoifile_read\Debug\tupoifile_read.exe
